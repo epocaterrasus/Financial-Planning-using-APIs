@@ -84,12 +84,15 @@ In the second part of the project we focused on analyzing the potential profit/l
 ## Images
 
 Pie Chart comparing Cryptocurrency and Stock/Bond Holdings
+
 ![image](https://user-images.githubusercontent.com/94983278/151562840-88eab94b-7aac-4852-a215-fcbce448ef40.png)
 
 Plot of Potential Stock/Bond outcomes - 30 Years
+
 ![image](https://user-images.githubusercontent.com/94983278/151563097-c7760fe9-b544-4053-94f4-a5a39fae5efe.png)
 
 Distribution of Potential Stock/Bond outcomes - 30 Years
+
 ![image](https://user-images.githubusercontent.com/94983278/151563267-b6648595-b3a1-4f35-985e-028dc1d9fb08.png)
 
 ---
